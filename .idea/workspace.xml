@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d22ffb-b185-4003-b3fe-863fcaf12f6d" name="Default" comment="" />
+    <list default="true" id="56d22ffb-b185-4003-b3fe-863fcaf12f6d" name="Default" comment="This is my Framework&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java" afterPath="$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Auto-Framework.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +96,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1156">
+            <state line="60" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -111,10 +114,8 @@
       <file leaf-file-name="Base.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="55" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="70" column="55" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1343">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,7 +123,7 @@
       <file leaf-file-name="NavigationTab.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="13" selection-start="3271" selection-end="3271" vertical-scroll-proportion="0.42857143" vertical-offset="1343" max-vertical-offset="2754">
+            <state line="21" column="31" selection-start="550" selection-end="550" vertical-scroll-proportion="0.6225352" vertical-offset="0" max-vertical-offset="2754">
               <folding />
             </state>
           </provider>
@@ -131,7 +132,7 @@
       <file leaf-file-name="runner.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/main/resources/runner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="663">
+            <state line="16" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -144,6 +145,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -154,8 +158,8 @@
         <option value="$PROJECT_DIR$/generic/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
         <option value="$PROJECT_DIR$/generic/src/main/java/base/Base.java" />
-        <option value="$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java" />
         <option value="$PROJECT_DIR$/Cnn/src/main/resources/runner.xml" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java" />
       </list>
     </option>
   </component>
@@ -252,7 +256,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -278,8 +282,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -640,26 +644,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -682,25 +666,32 @@
       </MavenSettings>
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -728,6 +719,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -828,6 +832,11 @@
       <created>1397157426824</created>
       <updated>1397157426824</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is my Framework">
+      <created>1397506342289</created>
+      <updated>1397506342289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -844,10 +853,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17673716" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17900302" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18806647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -855,8 +864,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -871,6 +880,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="This is my Framework" />
+    <MESSAGE value="This is my Framework&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my Framework&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -903,10 +915,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="55" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="13" selection-start="3271" selection-end="3271" vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="2754">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/resources/runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="39" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="30" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1547">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -955,9 +1007,7 @@
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="0" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="1530">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -992,9 +1042,7 @@
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,9 +1077,7 @@
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1102,27 +1148,6 @@
         <state line="56" column="36" selection-start="2735" selection-end="2735" vertical-scroll-proportion="-3.88" vertical-offset="838" max-vertical-offset="3638" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.5/testng-6.8.5.jar!/org/testng/internal/ConstructorOrMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="36" selection-start="741" selection-end="741" vertical-scroll-proportion="0.35652173" vertical-offset="217" max-vertical-offset="663" />
@@ -1138,15 +1163,34 @@
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="55" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="39" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/home/NavigationTab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="13" selection-start="3271" selection-end="3271" vertical-scroll-proportion="0.42857143" vertical-offset="1343" max-vertical-offset="2754">
+        <state line="21" column="31" selection-start="550" selection-end="550" vertical-scroll-proportion="0.6225352" vertical-offset="0" max-vertical-offset="2754">
           <folding />
         </state>
       </provider>
