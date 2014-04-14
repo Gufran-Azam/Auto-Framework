@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cnn UI Tests" parallel="tests">
+
+    <!-- If useSauce is false then all tests are on local-->
+    <parameter name="useSauceLab" value="false"/>
+    <parameter name="localPlatform" value="true"/>
+
+    <parameter name="URL" value=""/>
+    <parameter name="" value=""/>
+    <parameter name="password" value=""/>
+
+
+    <parameter name="" value=""/>
+    <parameter name="" value=""/>
+    <parameter name="" value=""/>
+    <!--DesiredCapabilities caps = DesiredCapabilities.firefox();-->
+    <!--caps.setCapability("platform", "Windows 8");-->
+    <!--caps.setCapability("version", "25");-->
+
+    <test name="Cnn on Windows-8 with firefox Tests">
+        <parameter name="os" value="Win8"/>
+        <!--<parameter name="browser" value="googlechrome"/>-->
+        <parameter name="browser" value="firefox"/>
+        <parameter name="browserVersion" value="32"/>
+        <!--<parameter name="browser" value="safari"/>-->
+        <classes>
+            <class name="home.NavigationTab"/>
+            <!--<class name= "LogIn"/>-->
+        </classes>
+    </test>
+    <!-- Test specific params are defined below this-->
+    <!--<parameter name="" value=""/>-->
+</suite>
