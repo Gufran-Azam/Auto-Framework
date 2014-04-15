@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$USER_HOME$" vcs="Git" />
+    <mapping directory="$USER_HOME$/.config/git" vcs="Git" />
+    <mapping directory="$USER_HOME$/Automation-Framework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cnn/src/test/java/home" vcs="Git" />
+    <mapping directory="$USER_HOME$/Framework" vcs="Git" />
   </component>
 </project>
 
